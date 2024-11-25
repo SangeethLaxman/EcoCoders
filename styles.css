@@ -105,6 +105,26 @@ img {
     margin-top:1.1rem
 }
 
+table{
+    margin-bottom:5%
+}
+table, td{
+    border: 5px solid darkgreen;
+    border-collapse: collapse;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+h2{
+    text-align: center;
+}
+
+td{
+    padding:1%
+}
+
 #mainlogothing {
     margin-bottom:0%
 }
