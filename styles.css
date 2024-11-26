@@ -113,7 +113,7 @@ td {
     text-align: center;
 }
 
-ul {
+ul,ol {
     list-style-position: inside;
 }
 
