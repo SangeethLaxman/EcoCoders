@@ -49,7 +49,7 @@ button {
     border-radius: 25px;
     cursor: pointer;
     transition: background-color 0.3s ease, transform 0.2s ease;
-    border: 10px solid #0d250f;
+    border: 5px solid #0d250f;
 }
 
 button:hover {
